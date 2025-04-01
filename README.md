@@ -1,6 +1,7 @@
-#👋 Hello, I'm Monir Hossain Raju #
+#👋 Hello, I'm Monir Hossain Raju 
+
 A full time content creator on & web developer
-🏠   Living: Tongi , Gazipur.
+🏠 Living: Tongi , Gazipur.
 
 <a href="https://website.com" title="website" terget="_blank"><img src="website.svg" alt="Alt text" width="50" height="50"></a>
 <a href="https://facebook" alt="facebook link" terget="_blank"><img src="facebook.svg" alt="Alt text" width="50" height="50"></a>
