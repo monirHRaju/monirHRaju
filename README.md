@@ -2,7 +2,7 @@
 A full time content creator on & web developer
 🏠   Living: Tongi , Gazipur.
 
-<a href="https://website.com" alt="website" terget="_blank"><img src="website.svg" alt="Alt text" width="50" height="50"></a>
+<a href="https://website.com" title="website" terget="_blank"><img src="website.svg" alt="Alt text" width="50" height="50"></a>
 <a href="https://facebook" alt="facebook link" terget="_blank"><img src="facebook.svg" alt="Alt text" width="50" height="50"></a>
 <a href="https://linkedin.com" alt="linkedin profile"  terget="_blank"><img src="linkedin.svg" alt="Alt text" width="50" height="50"></a>
 <a href="https://youtube.com" alt="youtube channel" terget="_blank"><img src="youtube.svg" alt="Alt text" width="50" height="50"></a>
