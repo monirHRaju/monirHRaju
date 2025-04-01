@@ -13,21 +13,38 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 # 👨🏽‍💻   My Skills & Videos:
 ### Key Skills & Videos on Web development: ###
+<a href="https://youtube.com" title="html" terget="_blank"><img src="html.svg" width="50" height="50"></a>
 
 ### Other Skills & Videos: ###
 
 
 
-**monirHRaju/monirHRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Education
+** M.Sc. in Software, Web & Cloud **
+Tampere University
+Tampere, Finland.
+** B.Sc. in Computer Science & Engineering **
+Leading University
+Sylhet, Bangladesh.
+** Professional Diploma in Travel & Tourism **
+London School of Commerce & IT
+London, England.
 
-Here are some ideas to get you started:
+#  Languages:
+-  🇧🇩 Bangla : Native
+-  🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+-  🇮🇳 Hindi : Intermediate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#   Sports / Game / Activities / Hobby:
+-  🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+-  🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+-  ✈️ Travelling
 
+🏅 Honors & Awards :
+-  100% Scholarship in Masters at Tampere University, Finland
+-  Silver Button from YouTube (350k subscribers currently)
+-  Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
+
+<hr>
+Thanks for going through my Portfolio. All rights reserved by Anisul Islam @2021
+<hr>
