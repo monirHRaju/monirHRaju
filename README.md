@@ -1,4 +1,4 @@
-#👋 Hello, I'm Monir Hossain Raju 
+#  👋 Hello, I'm Monir Hossain Raju 
 
 A full time content creator on & web developer
 🏠 Living: Tongi , Gazipur.
@@ -13,7 +13,17 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 # 👨🏽‍💻   My Skills & Videos:
 ### Key Skills & Videos on Web development: ###
-<a href="https://youtube.com" title="html" terget="_blank"><img src="html.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="html" terget="_blank"><img src="html5.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="css3" terget="_blank"><img src="css3.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="jquery" terget="_blank"><img src="jquery.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="js" terget="_blank"><img src="js.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="json" terget="_blank"><img src="json.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="mongodb" terget="_blank"><img src="mongodb.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="mysql" terget="_blank"><img src="mysql.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="node" terget="_blank"><img src="node.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="react" terget="_blank"><img src="react.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="sass" terget="_blank"><img src="sass.svg" width="50" height="50"></a>
+<a href="https://youtube.com" title="bootstrap" terget="_blank"><img src="bootstrap.svg" width="50" height="50"></a>
 
 ### Other Skills & Videos: ###
 
