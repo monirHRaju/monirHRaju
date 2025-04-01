@@ -1,8 +1,8 @@
 #👋 Hello, I'm Monir Hossain Raju
 A full time content creator on & web developer
 🏠   Living: Tampere, Finland
-![youtube](youtube.svg)
- [Youtube](https://youtube.com)
+
+<a href="https://youtube.com"><img src="youtube.svg" alt="Alt text" width="100" height="100"></a>
 
 
 
