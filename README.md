@@ -2,7 +2,10 @@
 A full time content creator on & web developer
 🏠   Living: Tampere, Finland
 
-<a href="https://youtube.com"><img src="youtube.svg" alt="Alt text" width="100" height="100"></a>
+<a href="https://website.com" terget="_blank"><img src="website.svg" alt="Alt text" width="50" height="50"></a>
+<a href="https://facebook" terget="_blank"><img src="facebook.svg" alt="Alt text" width="50" height="50"></a>
+<a href="https://linkedin.com" terget="_blank"><img src="linkedin.svg" alt="Alt text" width="50" height="50"></a>
+<a href="https://youtube.com" terget="_blank"><img src="youtube.svg" alt="Alt text" width="50" height="50"></a>
 
 
 
