@@ -1,4 +1,8 @@
-## Hi there 👋
+#👋 Hello, I'm Monir Hossain Raju
+A full time content creator on & web developer
+🏠   Living: Tampere, Finland
+ [Youtube](youtube.svg)
+
 
 
 **monirHRaju/monirHRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
