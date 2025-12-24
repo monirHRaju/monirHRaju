@@ -7,9 +7,9 @@ Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-e
 
 <h4 align="center">Seeking for a Developer??</h4>
 <h1 align="center">🏆Monir Hossain Raju is Here🏆</h1>
-<h3 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
+<h3 align="center">Junior Frontend / MERN Developer  From Bangladesh</h3>
 <br/>
-<p align="left">I am a FullStack Developer Specialized at Mern-Stack technology. I have completed around 4+ Full-Stack Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
+<p align="left">I am a Frontend Developer Specialized at MERN-Stack technology. I have completed around 5+ Full-Stack Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
 <hr/>
 <h3 align="center">My Skilled Language and Tools:</h3>
 
@@ -23,7 +23,7 @@ Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-e
 
 - 🌱 I’m currently learning **TypeScript, NextJs**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, MongoDB**
+- 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, Express Js, Firebase Authentication, MongoDB**
 
 - 📫 Reach me **monirhraju@gmail.com**
 
@@ -31,15 +31,8 @@ Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-e
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-
-<a href="https://www.linkedin.com/in/monirhraju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monirhraju" height="30" width="40" /></a>
-
-<a href="https://www.fb.com/monir.h.raju" target="blank"><img align="center" src="https://files.svgcdn.io/logos/facebook.svg" alt="monirhraju" height="30" width="40" /></a>
-<a href="https://dribbble.com/monirhraju" target="blank"><img align="center" src="https://files.svgcdn.io/streamline-flex/dribble-solid.svg" alt="monirhraju" height="30" width="40" /></a>
-<a href="https://www.behance.net/monirhossain171" target="blank"><img align="center" src="https://files.svgcdn.io/devicon/behance.svg" alt="monirhraju" height="30" width="40" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/monirhraju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monirhraju" height="30" width="40" /></a><a href="https://www.fb.com/monir.h.raju" target="blank"><img align="center" src="https://files.svgcdn.io/logos/facebook.svg" alt="monirhraju" height="30" width="40" /></a><a href="https://dribbble.com/monirhraju" target="blank"><img align="center" src="https://files.svgcdn.io/streamline-flex/dribble-solid.svg" alt="monirhraju" height="30" width="40" /></a><a href="https://www.behance.net/monirhossain171" target="blank"><img align="center" src="https://files.svgcdn.io/devicon/behance.svg" alt="monirhraju" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/https://komarev.com/ghpvc/?username=monirHRaju&label=PROFILE+VIEWS" alt="monirhraju" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=monirHRaju&label=PROFILE+VIEWS" alt="monirhraju" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdous" alt="monirhraju" /></a> </p>
