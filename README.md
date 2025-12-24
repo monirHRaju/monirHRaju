@@ -1,55 +1,45 @@
-#  👋 Hello, I'm Monir Hossain Raju 
+## <img src="img/cover.png" alt="">
 
-A full time React & Next js web developer
-🏠 Living: Tongi , Gazipur.
+<h1></h1> 
+<p align="center">
+Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
+</p>
 
-<a href="https://website.com" title="website" terget="_blank"><img src="website.svg" alt="Alt text" width="50" height="50"></a>
-<a href="https://facebook" alt="facebook link" terget="_blank"><img src="facebook.svg" alt="Alt text" width="50" height="50"></a>
-<a href="https://linkedin.com" alt="linkedin profile"  terget="_blank"><img src="linkedin.svg" alt="Alt text" width="50" height="50"></a>
-<a href="https://youtube.com" alt="youtube channel" terget="_blank"><img src="youtube.svg" alt="Alt text" width="50" height="50"></a>
+<h4 align="center">Seeking for a Developer??</h4>
+<h1 align="center">🏆Monir Hossain Raju is Here🏆</h1>
+<h3 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h3>
+<br/>
+<p align="left">I am a FullStack Developer Specialized at Mern-Stack technology. I have completed around 4+ Full-Stack Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
+<hr/>
+<h3 align="center">My Skilled Language and Tools:</h3>
 
-# 👨‍🏫   About Me
-I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+</table>
+<p align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
 
-# 👨🏽‍💻   My Skills & Videos:
-### Key Skills & Videos on Web development: ###
-<a href="https://youtube.com" title="html" terget="_blank"><img src="html5.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="css3" terget="_blank"><img src="css3.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="js" terget="_blank"><img src="js.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="json" terget="_blank"><img src="json.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="mongodb" terget="_blank"><img src="mongodb.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="mysql" terget="_blank"><img src="mysql.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="node" terget="_blank"><img src="node.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="react" terget="_blank"><img src="react.svg" width="50" height="50"></a>
-<a href="https://youtube.com" title="bootstrap" terget="_blank"><img src="bootstrap.svg" width="50" height="50"></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
 
-### Other Skills & Videos: ###
+- ♨ Check out my portfolio and projects at [https://monir-h-raju.web.app/](https://monir-h-raju.web.app/)
 
+- 🌱 I’m currently learning **TypeScript, NextJs**
+
+- 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, MongoDB**
+
+- 📫 Reach me **monirhraju@gmail.com**
+
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1-ycTkOYmCFveynnwZUT0PnqIac9NLCnT/view?usp=drive_link])
 
 
-# Education
-** M.Sc. in Software, Web & Cloud **
-Tampere University
-Tampere, Finland.
-** B.Sc. in Computer Science & Engineering **
-Leading University
-Sylhet, Bangladesh.
-** Professional Diploma in Travel & Tourism **
-London School of Commerce & IT
-London, England.
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 
-#  Languages:
--  🇧🇩 Bangla : Native
--  🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+<a href="https://www.linkedin.com/in/monirhraju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monirhraju" height="30" width="40" /></a>
 
-#   Sports / Game / Activities / Hobby:
--  🏏 Cricket, 
--  🏃‍♂️ Running, 🚶‍♂️ Walking
--  ✈️ Travelling
+<a href="https://www.fb.com/monir.h.raju" target="blank"><img align="center" src="https://files.svgcdn.io/logos/facebook.svg" alt="monirhraju" height="30" width="40" /></a>
+<a href="https://dribbble.com/monirhraju" target="blank"><img align="center" src="https://files.svgcdn.io/streamline-flex/dribble-solid.svg" alt="monirhraju" height="30" width="40" /></a>
+<a href="https://www.behance.net/monirhossain171" target="blank"><img align="center" src="https://files.svgcdn.io/devicon/behance.svg" alt="monirhraju" height="30" width="40" /></a>
+</p>
 
-🏅 Honors & Awards :
--  
+<p align="center"> <img src="https://komarev.com/ghpvc/https://komarev.com/ghpvc/?username=monirHRaju&label=PROFILE+VIEWS" alt="monirhraju" /> </p>
 
-<hr>
-Thanks for going through my Portfolio. All rights reserved by Monir Hossain @2025
-<hr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdous" alt="monirhraju" /></a> </p>
