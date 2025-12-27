@@ -29,6 +29,8 @@ Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-e
 
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1-ycTkOYmCFveynnwZUT0PnqIac9NLCnT/view?usp=drive_link](https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing)])
 
+- [Dowload CV](https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing)
+
 
 
 <h3 align="center">Connect with me:</h3>
