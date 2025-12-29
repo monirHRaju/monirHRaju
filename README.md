@@ -122,4 +122,5 @@ Check the pinned repositories below 👇
 <a href="https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing">
     <img width="64" height="64" src="https://img.icons8.com/arcade/64/resume.png" alt="resume"/>
   </a>
+  <p align="center">Download My Resume</p>
 </p>
