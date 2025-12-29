@@ -121,6 +121,7 @@ Check the pinned repositories below 👇
 <p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
 <a href="https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing">
     <img width="64" height="64" src="https://img.icons8.com/arcade/64/resume.png" alt="resume"/>
-  </a>
-  <p align="center">Download My Resume</p>
+    
+</a>
+  [Donwload CV]([https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white](https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing))
 </p>
