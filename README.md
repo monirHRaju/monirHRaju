@@ -3,9 +3,7 @@
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+Monir+Hossain" alt="Typing SVG">
 </br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"> -->
-  <p>
-    I am a Frontend Developer Specialized at MERN-Stack technology. I have completed around 5+ Full-Stack Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.
-  </p>
+
 </p>
 
 <p align="center" style="background-color: #000000;">
@@ -40,7 +38,7 @@
 🔹 Developing **full-stack capabilities** with Next.js API routes  
 🔹 Contributing to **open-source** frontend projects
 
-🌱 I’m currently learning TypeScript, NextJs
+🌱 I’m currently learning **TypeScript, NextJs**
 
 
 </div>
@@ -117,9 +115,11 @@ Check the pinned repositories below 👇
   <a href="https://github.com/monirHRaju/monirHRaju">
     <img src="https://img.shields.io/github/stars/monirHRaju?style=social" alt="GitHub Stars"/>
   </a>
-  
-  <a href="https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing">
-    Download My CV
-  </a>
 
+</p>
+
+<p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
+<a href="https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing">
+    <img width="64" height="64" src="https://img.icons8.com/arcade/64/resume.png" alt="resume"/>
+  </a>
 </p>
