@@ -1,9 +1,5 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Md%20Monir%20Hossain&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+Monir+Hossain" alt="Typing SVG">
-</br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"> -->
-
 </p>
 
 <p align="center" style="background-color: #000000;">
@@ -119,9 +115,10 @@ Check the pinned repositories below 👇
 </p>
 
 <p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
-<a href="https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing">
-    <img width="64" height="64" src="https://img.icons8.com/arcade/64/resume.png" alt="resume"/>
-    
-</a>
-  [Donwload CV]([https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white](https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing))
+ 
+  <a href="https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing">
+      <img width="64" height="64" src="https://img.icons8.com/arcade/64/resume.png" alt="resume"/>
+      
+  </a>
+  <p align="center" >[Dowload CV]</p>
 </p>
