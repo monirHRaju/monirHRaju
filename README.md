@@ -34,7 +34,8 @@
 🔹 Developing **full-stack capabilities** with Next.js API routes  
 🔹 Contributing to **open-source** frontend projects
 
-🌱 I’m currently learning **TypeScript, NextJs**
+🌱 I’m exploring **TypeScript, NextJs**
+📜 I’m working on a **tourism website**
 
 
 </div>
