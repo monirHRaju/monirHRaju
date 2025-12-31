@@ -35,6 +35,7 @@
 🔹 Contributing to **open-source** frontend projects
 
 🌱 I’m exploring **TypeScript, NextJs**
+
 📜 I’m working on a **tourism website**
 
 
@@ -85,17 +86,6 @@
 </div>
 
 
-<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Created my GitHub Profile README
-2. 🚀 Started a new project
-3. 🔥 Pushed first commit
-<!--END_SECTION:activity-->
-
-</div>
 
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
