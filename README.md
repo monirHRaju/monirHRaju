@@ -36,7 +36,7 @@
 
 🌱 I’m exploring **TypeScript, NextJs**
 
-📜 I’m working on a **tourism website**
+📜 I’m working on a **eCommerce Website**
 
 
 </div>
