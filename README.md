@@ -85,7 +85,18 @@
 
 </div>
 
+<br/>
 
+```javascript
+const monirHossain = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Express", "Next", "Node.js", "Styled-Components", "Firebase", "Mongodb", "Github", "Vercel"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  speaker: ["English", "Bengali"]
+}
+```
+<br/>
 
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
