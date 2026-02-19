@@ -117,10 +117,10 @@ Check the pinned repositories below 👇
 </p>
 
 <p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
- 
-  <a href="https://drive.google.com/file/d/1Hi3vrR_qA5jxPi_Invp6VMjOchkQmbJk/view?usp=sharing">
+
+  <a href="https://drive.google.com/file/d/1v4HNRHGRvb8lOkL6VxQU2EyIyDbSloV3/view?usp=drive_link">
       <img width="64" height="64" src="https://img.icons8.com/arcade/64/resume.png" alt="resume"/>
-      
+      <p align="center" >[Dowload CV]</p> 
   </a>
-  <p align="center" >[Dowload CV]</p>
+  
 </p>
