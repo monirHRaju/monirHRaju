@@ -101,7 +101,6 @@ const monirHossain = {
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
 ## My Projects:
-Check the pinned repositories below 👇
 
 </div>
 
@@ -124,3 +123,8 @@ Check the pinned repositories below 👇
   </a>
   
 </p>
+
+<p>
+  Check the pinned repositories below 👇
+</p>
+
