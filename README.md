@@ -91,7 +91,7 @@
 const monirHossain = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Express", "Next", "Node.js", "Styled-Components", "Firebase", "Mongodb", "Github", "Vercel"],
+  tools: ["React", "Express", "Next", "TypeScript", "Node.js", "Styled-Components", "Firebase", "Mongodb", "Github", "Vercel"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   speaker: ["English", "Bengali"]
 }
