@@ -36,7 +36,7 @@
 
 🌱 I’m exploring **TypeScript**
 
-📜 I’m working on a **eCommerce Website**
+📜 I’m working on a **POS Application**
 
 
 </div>
