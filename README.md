@@ -23,16 +23,16 @@
 
 <div style="background-color: #000000; padding: 10px; border-radius: 5px;">
 
-## 👨🏼‍💻 I'm a Frontend Developer (MERN)
+## 👨🏼‍💻 I'm a MERN Stack Developer
 
 <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
 
-🔹 Building performant, responsive UIs with **Modern React**  
+🔹 Building performant, responsive UIs with **Modern Next.js, React**  
 🔹 Exploring **advanced state management** solutions  
 🔹 Implementing **accessibility** best practices  
 🔹 Optimizing **web performance** metrics   
-🔹 Developing **full-stack capabilities** with Next.js API routes  
-🔹 Contributing to **open-source** frontend projects
+🔹 Developing **full-stack capabilities** with Express.js API routes  
+🔹 Contributing to **open-source**  projects
 
 🌱 I’m exploring **TypeScript**
 
