@@ -1,6 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Md%20Monir%20Hossain&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
-</p>
+</p> -->
+<div align="center">
+  <img src="./assets/monirhraju-monir-hossain-software-developer-web-application-engineer.png" alt="Banner" width="100%"/>
+</div>
 
 <p align="center" style="background-color: #000000;">
   <a href="http://monir-h-raju.web.app/" target="_blank">
